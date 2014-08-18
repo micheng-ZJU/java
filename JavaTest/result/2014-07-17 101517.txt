@@ -1,0 +1,6 @@
+Login to MSTR by recovery: 	7.436
+Get favorit keys: 	0.406
+Open a door: 	0.641
+Get all keys: 	1.011
+Validate with QR code: 	0.461
+Validate with Usher code: 	0.543

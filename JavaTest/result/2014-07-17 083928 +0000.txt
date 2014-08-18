@@ -1,0 +1,4 @@
+Login to MSTR by recovery: 	7.822
+Get favorit keys: 	0.505
+Open a door: 	0.703
+Get all keys: 	1.218

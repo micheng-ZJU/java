@@ -1,0 +1,8 @@
+Recover 11 badges: 	2.630
+Login to MSTR by recovery: 	7.397
+Get favorit keys: 	0.858
+Open a door: 	0.716
+Get all keys: 	0.608
+Validate with QR code: 	0.429
+Validate with Usher code: 	0.772
+Send recovery link: 	1.633
